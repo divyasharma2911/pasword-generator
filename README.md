@@ -1,2 +1,2 @@
 # pasword generator
-it helps generation a strong pasword
+it helps generating a strong pasword
